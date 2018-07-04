@@ -11,6 +11,7 @@
     <modules>
         <module>usefulUtil</module>
         <module>wqutil</module>
+        <module>myweburl</module>
     </modules>
 
 
