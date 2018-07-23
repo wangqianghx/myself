@@ -1,3 +1,5 @@
+[CentOS7安装Hadoop2.7完整步骤](https://www.linuxidc.com/Linux/2015-11/124800.htm)
+
 [centos下载](http://mirror.centos.org/)
 
 [Java 7 并发编程指南中文版](http://ifeve.com/java-7-concurrency-cookbook/)
