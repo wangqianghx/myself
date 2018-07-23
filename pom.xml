@@ -13,6 +13,8 @@
         <module>wqutil</module>
         <module>myweburl</module>
         <module>springbootshizhan</module>
+        <module>highlight_spring4</module>
+        <module>mybigdata</module>
     </modules>
 
     <parent>
