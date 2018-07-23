@@ -32,7 +32,7 @@ Sqoop | V1.4.5
 
 [Scala地址页](https://www.scala-lang.org/download/2.12.6.html)
 
-[Scala地址](https://downloads.lightbend.com/scala/2.12.6/scala-2.12.6.msi)
+[Scala地址](https://downloads.lightbend.com/scala/2.12.6/scala-2.12.6.tgz)
 
 [Flume地址1](http://www.apache.org/dyn/closer.lua/flume/1.8.0/apache-flume-1.8.0-bin.tar.gz)
 
@@ -74,14 +74,14 @@ $ tar -zxvf 包名
 * 修改/etc/profile
 
 ```
-export JAVA_HOME=/opt/jdk1.8
+export JAVA_HOME=/opt/jdk1.8.0_181
 export CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
-export HIVE_HOME=/opt/apache-hive-1.2.0-bin
-export HADOOP_HOME=/opt/hadoop-2.7.4
-export HADOOP_CONF_DIR=/opt/hadoop-2.7.4/etc/hadoop
-export YARN_CONF_DIR=/opt/hadoop-2.7.4/etc/hadoop
-export SCALA_HOME=/opt/scala-2.11.12
-export SPARK_HOME=/opt/spark-2.2.1-bin-hadoop2.7
+export HIVE_HOME=/opt/apache-hive-2.3.3-bin
+export HADOOP_HOME=/opt/hadoop-2.7.6
+export HADOOP_CONF_DIR=/opt/hadoop-2.7.6/etc/hadoop
+export YARN_CONF_DIR=/opt/hadoop-2.7.6/etc/hadoop
+export SCALA_HOME=/opt/scala-2.12.6
+export SPARK_HOME=/opt/spark-2.3.1-bin-hadoop2.7
 
 export PATH=$JAVA_HOME/bin:$PATH
 export PATH=$PATH:$HADOOP_HOME/bin:$HADOOP_HOME/sbin:
