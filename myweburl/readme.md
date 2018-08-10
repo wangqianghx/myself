@@ -47,3 +47,5 @@
 [Intellij IDEA的激活（使用破解补丁永久激活）](https://blog.csdn.net/shengshengshiwo/article/details/79599761)
 
 [IntelliJ IDEA 注册码](http://idea.congm.in/)
+
+[VMware Pro 14.1.2 官方正式版及激活密钥](http://www.zdfans.com/html/5928.html)
