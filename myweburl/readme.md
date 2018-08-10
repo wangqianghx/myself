@@ -43,3 +43,7 @@
 [大数据资料](http://dy1766.com/)
 
 [maven download](http://maven.apache.org/download.cgi)
+
+[Intellij IDEA的激活（使用破解补丁永久激活）](https://blog.csdn.net/shengshengshiwo/article/details/79599761)
+
+[IntelliJ IDEA 注册码](http://idea.congm.in/)
