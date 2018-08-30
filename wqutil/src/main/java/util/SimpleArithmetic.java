@@ -19,7 +19,7 @@ public final class SimpleArithmetic {
 
         long currentTimeMillis = System.currentTimeMillis();
         System.out.println(System.currentTimeMillis());
-        for (int i = 0; i <= 100; i++) {
+        for (int i = 0; i <= 1000; i++) {
             String expr = "1.255344532*(nav/(nav-nav*baccctejahioaitnv*fahuzwnnrze+nav/MQLPZEHTZBE)+MQLPZEHTZBE)+MQLPZEHTZBE*6-10/MQLPZEHTZBE";
             Map<String, String> map = new HashMap<String, String>();
             map.put("nav", "1.1");

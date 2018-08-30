@@ -67,6 +67,7 @@ public class Calculator {
         Stack<String> resultStack = new Stack<String>();
         prepare(expression);
         Collections.reverse(postfixStack);// 将后缀式栈反转
+        System.out.println(postfixStack);
         String firstValue, secondValue, currentValue;// 参与计算的第一个值，第二个值和算术运算符
         while (!postfixStack.isEmpty()) {
             currentValue = postfixStack.pop();
