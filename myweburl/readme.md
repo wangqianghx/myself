@@ -1,3 +1,5 @@
+[CentOS7安装Hadoop2.7完整步骤](https://www.linuxidc.com/Linux/2015-11/124800.htm)
+
 [centos下载](http://mirror.centos.org/)
 
 [Java 7 并发编程指南中文版](http://ifeve.com/java-7-concurrency-cookbook/)
@@ -41,3 +43,9 @@
 [大数据资料](http://dy1766.com/)
 
 [maven download](http://maven.apache.org/download.cgi)
+
+[Intellij IDEA的激活（使用破解补丁永久激活）](https://blog.csdn.net/shengshengshiwo/article/details/79599761)
+
+[IntelliJ IDEA 注册码](http://idea.congm.in/)
+
+[VMware Pro 14.1.2 官方正式版及激活密钥](http://www.zdfans.com/html/5928.html)
