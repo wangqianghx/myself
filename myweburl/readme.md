@@ -44,6 +44,10 @@
 
 [rpm包安装docker方法](https://jingyan.baidu.com/article/2fb0ba40853a0800f2ec5f27.html)
 
+[Docker报错 WARNING: IPv4 forwarding is disabled. Networking will not work.](https://blog.csdn.net/yjk13703623757/article/details/68939183)
+
+[]()
+
 [windows 安装redis](https://www.cnblogs.com/jaign/articles/7920588.html)
 
 [大数据资料](http://dy1766.com/)
