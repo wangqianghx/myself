@@ -1,0 +1,19 @@
+docker run -it --rm --network host -v k8s-cluster-config:/kubes/config yharbor4.com/cloud/k8s:20180904 make gen IPS='192.168.142.51 192.168.142.52 192.168.142.53'
+
+kubectl create secret docker-registry harborregistrykey --docker-server=yharbor4.com --docker-username=yjypublic --docker-password=Yjy300377 --docker-email=DOCKER_EMAIL --namespace=default
+
+kubectl get service
+kubectl create -f redis-clusterip-service.yaml
+docker exec -it 64ca44f41a7e /bin/bash
+docker ps
+swapoff -a
+kubectl get svc redis-nodeport -o yaml
+kubectl get nodes
+kubectl get pods redis-5bb9c4bdbb-hdbqg --template='{{(index (index .spec.containers 0).ports 0).containerPort}}{{"\n"}}'
+kubectl get pod -o wide
+kubectl delete -f redis.yaml
+docker run -it yharbor4.com/demo/redis:1.0 /bin/bash
+ docker login yharbor4.com -u yjypublic -p Yjy300377
+
+redis-cli -h redis-clusterip
+redis-cli -h 10.233.16.8
