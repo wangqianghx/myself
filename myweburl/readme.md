@@ -38,6 +38,12 @@
 
 [kylin 大数据](http://kylin.apache.org/cn/)
 
+[Centos7中安装及验证Docker](https://blog.csdn.net/zsl129/article/details/53520264)
+
+[CentOS7下安装docker](https://www.cnblogs.com/baolong/p/6526591.html)
+
+[rpm包安装docker方法](https://jingyan.baidu.com/article/2fb0ba40853a0800f2ec5f27.html)
+
 [windows 安装redis](https://www.cnblogs.com/jaign/articles/7920588.html)
 
 [大数据资料](http://dy1766.com/)
