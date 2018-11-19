@@ -1,3 +1,5 @@
+[Navicat Premium 12.0.18安装与激活(转)](https://www.cnblogs.com/chechen/p/8489076.html)
+
 [CentOS7安装Hadoop2.7完整步骤](https://www.linuxidc.com/Linux/2015-11/124800.htm)
 
 [centos下载](http://mirror.centos.org/)
