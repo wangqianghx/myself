@@ -1,3 +1,5 @@
+[Navicat Premium 12.0.18安装与激活(转)](https://www.cnblogs.com/chechen/p/8489076.html)
+
 [CentOS7安装Hadoop2.7完整步骤](https://www.linuxidc.com/Linux/2015-11/124800.htm)
 
 [centos下载](http://mirror.centos.org/)
@@ -37,6 +39,16 @@
 [蚂蚁课堂](http://www.itmayiedu.com/front/showcoulist)
 
 [kylin 大数据](http://kylin.apache.org/cn/)
+
+[Centos7中安装及验证Docker](https://blog.csdn.net/zsl129/article/details/53520264)
+
+[CentOS7下安装docker](https://www.cnblogs.com/baolong/p/6526591.html)
+
+[rpm包安装docker方法](https://jingyan.baidu.com/article/2fb0ba40853a0800f2ec5f27.html)
+
+[Docker报错 WARNING: IPv4 forwarding is disabled. Networking will not work.](https://blog.csdn.net/yjk13703623757/article/details/68939183)
+
+[]()
 
 [windows 安装redis](https://www.cnblogs.com/jaign/articles/7920588.html)
 
