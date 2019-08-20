@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.self.wq.freemarker.dao.FlowNodeDao">
+	<resultMap id="BaseResultMap" type="com.self.wq.freemarker.domain.FlowNode">
+		<result column="fromFlowNodeCode" property="fromFlowNodeCode" />
+		<result column="tablename" property="tablename" />
+		<result column="flowNodeCode" property="flowNodeCode" />
+		<result column="flowNodeName" property="flowNodeName" />
+		<result column="flowNodeType" property="flowNodeType" />
+		<result column="flowCode" property="flowCode" />
+		<result column="flowName" property="flowName" />
+		<result column="joinRowKey" property="joinRowKey" />
+		<result column="toRowkey" property="toRowkey" />
+		<result column="prefixStr" property="prefixStr" />
+		<result column="suffixStr" property="suffixStr" />
+	</resultMap>
+
+	<parameterMap id="flow_node" type="com.self.wq.freemarker.domain.FlowNode"/>
+
+	<sql id="Base_Column_List">
+		fromFlowNodeCode, tablename, flowNodeCode, flowNodeName, flowNodeType, flowCode, flowName, joinRowKey, toRowkey, prefixStr, suffixStr
+	</sql>
+
+	<select id="findFlowNodeByFlowCode" resultMap="BaseResultMap" parameterType="java.lang.String">
+		select
+		<include refid="Base_Column_List" />
+		from flow_node
+		where flowCode = #{flowCode}
+	</select>
+
+</mapper>

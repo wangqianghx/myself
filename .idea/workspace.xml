@@ -1,0 +1,1350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1e9ab5a-ee7d-4880-aedf-e3e0d2b26cac" name="忽略" comment="提交">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybigdata/mybigdata.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myself.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myweburl/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myweburl/target/myweburl-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootshizhan/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootshizhan/target/classes/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootshizhan/target/classes/templates/readinglist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootshizhan/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootshizhan/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootshizhan/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootshizhan/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootshizhan/target/site/css/maven-base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootshizhan/target/site/css/maven-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootshizhan/target/site/css/print.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootshizhan/target/site/css/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootshizhan/target/site/dependencies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootshizhan/target/site/images/close.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootshizhan/target/site/images/collapsed.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootshizhan/target/site/images/expanded.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootshizhan/target/site/images/external.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootshizhan/target/site/images/icon_error_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootshizhan/target/site/images/icon_info_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootshizhan/target/site/images/icon_success_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootshizhan/target/site/images/icon_warning_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootshizhan/target/site/images/logos/build-by-maven-black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootshizhan/target/site/images/logos/build-by-maven-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootshizhan/target/site/images/logos/maven-feather.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootshizhan/target/site/images/newwindow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootshizhan/target/springbootshizhan-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootshizhan/target/springbootshizhan-1.0.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/utilstack/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wqutil/src/main/resources/ftl/cityList.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala-helloworld/scala-helloworld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootshizhan/src/main/java/demo/springboot/book/ReadingListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springbootshizhan/src/main/java/demo/springboot/book/ReadingListController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wqutil/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/wqutil/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wqutil/src/main/java/WebMethod1/ArithHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/WebMethod1/ArithHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wqutil/src/main/java/WebMethod1/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/WebMethod1/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wqutil/src/main/java/WebMethod1/MathTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/WebMethod1/MathTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wqutil/src/main/java/util/SimpleArithmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/util/SimpleArithmetic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wqutil/src/main/java/utilstack/AnalyticFormula.java" beforeDir="false" afterPath="$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/utilstack/AnalyticFormula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wqutil/src/main/java/utilstack/ArithHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/utilstack/ArithHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wqutil/src/main/java/utilstack/FormulaComputing.java" beforeDir="false" afterPath="$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/utilstack/FormulaComputing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wqutil/src/main/java/utilstack/Main.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/usefulUtil/target/" />
+    <ignored path="$PROJECT_DIR$/wqutil/target/" />
+    <ignored path=".idea/misc.xml" />
+    <ignored path=".idea/compiler.xml" />
+    <ignored path=".idea/encodings.xml" />
+    <ignored path="myself.iml" />
+    <ignored path=".idea/codeStyles/codeStyleConfig.xml" />
+    <ignored path=".idea/vcs.xml" />
+    <ignored path="wqutil/src/main/java/util/Test.java" />
+    <ignored path="$PROJECT_DIR$/myweburl/target/" />
+    <ignored path="$PROJECT_DIR$/springbootshizhan/target/" />
+    <ignored path=".idea/" />
+    <ignored path="springbootshizhan/target/classes/demo/springboot/" />
+    <ignored path="$PROJECT_DIR$/highlight_spring4/target/" />
+    <ignored path="$PROJECT_DIR$/mybigdata/target/" />
+    <ignored path="mybigdata/mybigdata.iml" />
+    <ignored path="springbootshizhan/target/" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/myself$Main.ic" NAME="Main Coverage Results" MODIFIED="1531979092318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.self.highlight_spring4.ch1.di.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mysql@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="myself" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybigdata/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlowManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/freemarker/domain/FlowManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="27" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleArithmetic.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/util/SimpleArithmetic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AnalyticFormula.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/utilstack/AnalyticFormula.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="509">
+              <caret line="57" column="51" selection-start-line="55" selection-start-column="16" selection-end-line="57" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArithHelper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/WebMethod1/ArithHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlowNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/freemarker/domain/FlowNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1429">
+              <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+              <folding>
+                <element signature="e#1982#1983#0" expanded="true" />
+                <element signature="e#2018#2019#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FreeMarkerTools.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/freemarker/FreeMarkerTools.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myself.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myself.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Object" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>`</find>
+      <find>DEF_DIV_SCALE</find>
+      <find>operatPriority</find>
+      <find>buildPrintln</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GroovyConsoleState">
+    <option name="list">
+      <list>
+        <Entry>
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
+          <option name="moduleName" value="springbootshizhan" />
+          <option name="title" value="springbootshizhan (Bundled Groovy 2.4.12)" />
+        </Entry>
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/utilstack/FormulaComputing.java" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/util/Test.java" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/utilstack/ArithHelper.java" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/utilstack/Main.java" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/freemarker/temp.ftl" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/freemarker/domain/City.java" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/freemarker/service/impl/CityServiceImpl.java" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/freemarker/controller/CityController.java" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/freemarker/dao/CityDao.java" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/freemarker/service/CityService.java" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/freemarker/Main.java" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/resources/mapper/CityMapper.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/wqutil/pom.xml" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/freemarker/Application.java" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/freemarker/Application.java" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/freemarker/controller/CityController.java" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/resources/ftl/temp.ftl" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/resources/ftl/cityList.ftl" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/resources/ftl/execTableCol.ftl" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/freemarker/TableCol.java" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/freemarker/TopPOJO.java" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/resources/ftl/topRDD.ftl" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/resources/ftl/table2rdd.ftl" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/resources/ftl/groupbyRDD.ftl" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/resources/ftl/iteratorFlowRow.ftl" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/resources/ftl/iteratorTableCol.ftl" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/resources/ftl/joinRDD.ftl" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/freemarker/service/FreeMarkerService.java" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/freemarker/service/impl/FreeMarkerService.java" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/freemarker/Main.java" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/freemarker/controller/FreeMarkerController.java" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/freemarker/TestAchievementpay.scala" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/freemarker/domain/FlowManager.java" />
+        <option value="009f0e8b-a030-4de4-9455-26bfc5a08e93/schema/springbootdb/table/flow_node.sql" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/resources/mapper/FlowManagerMapper.xml" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/resources/mapper/TableColMapper.xml" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/freemarker/domain/TableCol.java" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/freemarker/dao/FlowManagerDao.java" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/freemarker/dao/TableColDao.java" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/freemarker/FreeMarkerTools.java" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/freemarker/dao/FlowNodeDao.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/009f0e8b-a030-4de4-9455-26bfc5a08e93/console_1.sql" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/freemarker/domain/FlowNode.java" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/resources/mapper/FlowNodeMapper.xml" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/Application.java" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/freemarker/service/impl/FreeMarkerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/utilstack/Main.java" />
+        <option value="$PROJECT_DIR$/springbootshizhan/src/main/java/demo/springboot/book/ReadingListController.java" />
+        <option value="$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/filewatch1/Test.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JavaeeView">
+    <option name="showModules" value="false" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="myself" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="myself" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="myself" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="wqutil" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="wqutil" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="wqutil" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-13" />
+    <option name="y" value="-13" />
+    <option name="width" value="2762" />
+    <option name="height" value="1790" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myself" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myself" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myself" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myself" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootshizhan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myself" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myself" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootshizhan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myself" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myself" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootshizhan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springbootshizhan/target" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LoveXueBaby\IdeaProjects\myself\wqutil\src\main\resources\mapper" />
+      <recent name="C:\Users\LoveXueBaby\IdeaProjects\myself\wqutil\src\main\resources\ftl" />
+      <recent name="C:\Users\LoveXueBaby\IdeaProjects\myself\wqutil\src\main\resources" />
+      <recent name="C:\Users\LoveXueBaby\IdeaProjects\myself\wqutil\src\main\java" />
+      <recent name="C:\Users\LoveXueBaby\IdeaProjects\myself\usefulUtil\src\main\java\com.wq.util" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.self.wq.freemarker.dao" />
+      <recent name="com.self.wq.freemarker" />
+      <recent name="freemarker.service.impl" />
+      <recent name="freemarker.dao" />
+      <recent name="freemarker.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LoveXueBaby\IdeaProjects\myself\wqutil\src\main\resources\ftl" />
+      <recent name="C:\Users\LoveXueBaby\IdeaProjects\myself\wqutil\target\classes\freemarker" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/test" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/api/city" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/api/city/1" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/api/city" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.self.wq.utilstack.Main" />
+      <module name="wqutil" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.self.wq.utilstack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utilstack.Main" />
+      <module name="wqutil" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utilstack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.self.wq.freemarker.Main" />
+      <module name="wqutil" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.self.wq.freemarker.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="freemarker.Main" />
+      <module name="wqutil" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.self.wq.filewatch1.Test" />
+      <module name="wqutil" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.self.wq.filewatch1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="wqutil" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.self.wq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.self.wq.Application" />
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="wqutil" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="freemarker.Application" />
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springbootshizhan" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="demo.springboot.DemoApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Spring Boot.Application (1)" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Test (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Spring Boot.Application (1)" />
+        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1e9ab5a-ee7d-4880-aedf-e3e0d2b26cac" name="忽略" comment="" />
+      <created>1530687798438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530687798438</updated>
+      <workItem from="1530687801043" duration="7946000" />
+      <workItem from="1530752660423" duration="12146000" />
+      <workItem from="1530841996741" duration="2899000" />
+      <workItem from="1531199618681" duration="1331000" />
+      <workItem from="1531271194831" duration="647000" />
+      <workItem from="1531466513176" duration="21000" />
+      <workItem from="1531794281818" duration="14186000" />
+      <workItem from="1531876275468" duration="9175000" />
+      <workItem from="1531962679169" duration="6657000" />
+      <workItem from="1532308561801" duration="3441000" />
+      <workItem from="1532353454392" duration="1008000" />
+      <workItem from="1532354509807" duration="162000" />
+      <workItem from="1532355383746" duration="227000" />
+      <workItem from="1532355663097" duration="75000" />
+      <workItem from="1532355890739" duration="754000" />
+      <workItem from="1532409166819" duration="2450000" />
+      <workItem from="1532479828736" duration="14809000" />
+      <workItem from="1532566170666" duration="10206000" />
+      <workItem from="1532672947248" duration="1213000" />
+      <workItem from="1532684755427" duration="11000" />
+      <workItem from="1532739779948" duration="1207000" />
+      <workItem from="1533345227119" duration="3873000" />
+      <workItem from="1533534277376" duration="3759000" />
+      <workItem from="1533863331585" duration="230000" />
+      <workItem from="1533952448141" duration="617000" />
+      <workItem from="1533968793050" duration="39000" />
+      <workItem from="1533972858268" duration="97000" />
+      <workItem from="1535505459511" duration="25564000" />
+      <workItem from="1535938080733" duration="17179000" />
+      <workItem from="1535974116543" duration="10072000" />
+      <workItem from="1536023289029" duration="10266000" />
+      <workItem from="1536042057326" duration="7456000" />
+      <workItem from="1536060477267" duration="11455000" />
+      <workItem from="1536072655205" duration="13000" />
+      <workItem from="1536108901767" duration="8570000" />
+      <workItem from="1536213056285" duration="863000" />
+      <workItem from="1536830366067" duration="2133000" />
+      <workItem from="1540264031983" duration="2512000" />
+      <workItem from="1540523026006" duration="112000" />
+      <workItem from="1541135594244" duration="2491000" />
+      <workItem from="1542184607092" duration="619000" />
+      <workItem from="1542187620294" duration="101000" />
+      <workItem from="1542274873266" duration="190000" />
+      <workItem from="1542352088935" duration="871000" />
+      <workItem from="1542771706538" duration="38000" />
+      <workItem from="1545369342019" duration="2402000" />
+      <workItem from="1551147481990" duration="720000" />
+      <workItem from="1554779444218" duration="909000" />
+      <workItem from="1554780388258" duration="1361000" />
+      <workItem from="1554786827701" duration="2524000" />
+      <workItem from="1554797541560" duration="248000" />
+      <workItem from="1562226107010" duration="643000" />
+      <workItem from="1562917877688" duration="651000" />
+      <workItem from="1563069846605" duration="911000" />
+      <workItem from="1564031380928" duration="1044000" />
+      <workItem from="1564560150248" duration="130000" />
+      <workItem from="1566281017625" duration="266000" />
+    </task>
+    <task id="LOCAL-00001" summary="提交">
+      <created>1530688736650</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1530688736650</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交">
+      <created>1530691465574</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1530691465574</updated>
+    </task>
+    <task id="LOCAL-00003" summary="提交">
+      <created>1530691538362</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1530691538362</updated>
+    </task>
+    <task id="LOCAL-00004" summary="提交">
+      <created>1530842063747</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1530842063747</updated>
+    </task>
+    <task id="LOCAL-00005" summary="提交">
+      <created>1531893509490</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1531893509490</updated>
+    </task>
+    <task id="LOCAL-00006" summary="提交">
+      <created>1532310564296</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1532310564297</updated>
+    </task>
+    <task id="LOCAL-00007" summary="提交">
+      <created>1532328004503</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1532328004503</updated>
+    </task>
+    <task id="LOCAL-00008" summary="提交">
+      <created>1535593210439</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1535593210439</updated>
+    </task>
+    <task id="LOCAL-00009" summary="提交">
+      <created>1535593258956</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1535593258956</updated>
+    </task>
+    <task id="LOCAL-00010" summary="提交">
+      <created>1535595641730</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1535595641730</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="211500000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-13" y="-13" width="2762" height="1790" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="7" />
+      <window_info anchor="right" id="RestServices" order="8" weight="0.32997763" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5018868" side_tool="true" weight="0.5385621" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.21458998" />
+      <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="bottom" id="Statistic" order="17" weight="0.31049252" />
+      <window_info anchor="bottom" id="Tail" order="18" />
+      <window_info anchor="right" id="Database" order="5" visible="true" weight="0.16217229" />
+      <window_info id="Structure" order="1" sideWeight="0.5064935" side_tool="true" weight="0.30339622" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.2488263" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.49886793" weight="0.54901963" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.32806325" />
+      <window_info anchor="right" id="aiXcoder" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Java Enterprise" order="4" weight="0.32806325" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49962264" weight="0.29281047" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49811321" weight="0.34720415" />
+      <window_info anchor="bottom" id="Spring" order="3" weight="0.49281046" />
+      <window_info anchor="bottom" id="CheckStyle" order="19" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.44142395" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="18" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4935065" visible="true" weight="0.2835206" />
+      <window_info anchor="right" id="Bean Validation" order="0" weight="0.32981133" />
+      <window_info id="Web" order="2" sideWeight="0.50373137" side_tool="true" weight="0.2264151" />
+      <window_info anchor="bottom" id="JProfiler" order="12" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info id="Favorites" order="6" side_tool="true" weight="0.32981133" />
+      <window_info active="true" anchor="bottom" id="REST Client" order="1" visible="true" weight="0.42875817" />
+      <window_info anchor="bottom" id="Inspection" order="16" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="15" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="2" type="FLOATING" weight="0.54640526" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.2488263" />
+      <window_info anchor="bottom" id="Find" order="14" weight="0.3281046" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="8" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.27189544" />
+      <window_info anchor="bottom" id="Message" order="13" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.3286385" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="29" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.6.RELEASE/spring-webmvc-4.3.6.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="115" selection-start-line="115" selection-end-line="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://009f0e8b-a030-4de4-9455-26bfc5a08e93/schema/springbootdb/table/flow_node" />
+    <entry file="file://$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/WebMethod1/MathTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="79" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweburl/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="50" lean-forward="true" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/utilstack/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/utilstack/ArithHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2646">
+          <caret line="100" column="19" selection-start-line="100" selection-start-column="19" selection-end-line="100" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootshizhan/src/main/java/demo/springboot/book/ReadingListController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootshizhan/src/main/resources/templates/readinglist.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/highlight_spring4/src/main/java/com/self/highlight_spring4/ch1/javaconfig/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/highlight_spring4/src/main/java/com/self/highlight_spring4/ch1/javaconfig/UseFunctionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/highlight_spring4/src/main/java/com/self/highlight_spring4/ch1/javaconfig/FunctionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/highlight_spring4/src/main/java/com/self/highlight_spring4/ch1/javaconfig/JavaConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/highlight_spring4/src/main/java/com/self/highlight_spring4/ch1/di/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wqutil/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wqutil/src/main/resources/ftl/topRDD.ftl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wqutil/src/main/resources/ftl/table2rdd.ftl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wqutil/src/main/resources/ftl/iteratorTableCol.ftl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/WebMethod1/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3319">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/utilstack/FormulaComputing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="30" column="52" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/freemarker/controller/FreeMarkerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/freemarker/dao/FlowManagerDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/freemarker/dao/FlowNodeDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/freemarker/dao/TableColDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/freemarker/service/impl/FreeMarkerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1998">
+          <caret line="86" column="16" selection-start-line="86" selection-start-column="12" selection-end-line="86" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/wq_tools/scala/lib/scala-library.jar!/scala/Enumeration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scala-hello-world/src/HelloWorld.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scala-hello-world/src/chapter4/YingShe.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="33" column="37" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/nio/file/Paths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/nio/file/Path.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1917">
+          <caret line="97" column="19" selection-start-line="97" selection-start-column="19" selection-end-line="97" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/nio/file/WatchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="158" column="28" lean-forward="true" selection-start-line="158" selection-start-column="28" selection-end-line="158" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/filewatch1/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootshizhan/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/highlight_spring4/src/main/java/com/self/highlight_spring4/ch1/di/DiConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/highlight_spring4/src/main/java/com/self/highlight_spring4/ch1/di/FunctionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/highlight_spring4/src/main/java/com/self/highlight_spring4/ch1/di/UseFunctionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybigdata/mybigdata.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wqutil/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootshizhan/src/main/java/demo/springboot/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybigdata/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myself.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/freemarker/domain/FlowNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1429">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+          <folding>
+            <element signature="e#1982#1983#0" expanded="true" />
+            <element signature="e#2018#2019#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/freemarker/FreeMarkerTools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/freemarker/domain/FlowManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/util/SimpleArithmetic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/utilstack/AnalyticFormula.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="57" column="51" selection-start-line="55" selection-start-column="16" selection-end-line="57" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wqutil/src/main/java/com/self/wq/WebMethod1/ArithHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootshizhan/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1296" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.12.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>highlight_spring4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="-X dependency:tree" />
+    <option value="dependency:tree" />
+  </component>
+</project>

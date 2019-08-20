@@ -9,6 +9,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 import java.util.List;
 
+import static java.lang.System.out;
+
 /**
  * @author: wq
  * @date: 2018/7/17 15:29
@@ -32,7 +34,6 @@ public class ReadingListController {
 
     @RequestMapping(value = "/{reader}", method = RequestMethod.POST)
     public String addToReadingList(@PathVariable("reader") String reader, Book book){
-
         book.setReader(reader);
         readingListRepository.save(book);
         return "redirect:/readinglist/{reader}";

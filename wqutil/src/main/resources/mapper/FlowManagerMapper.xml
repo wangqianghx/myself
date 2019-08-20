@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.self.wq.freemarker.dao.FlowManagerDao">
+	<resultMap id="BaseResultMap" type="com.self.wq.freemarker.domain.FlowManager">
+		<result column="flowCode" property="flowCode" />
+		<result column="flowName" property="flowName" />
+	</resultMap>
+
+	<parameterMap id="flow_manager" type="com.self.wq.freemarker.domain.FlowManager"/>
+
+	<sql id="Base_Column_List">
+		flowCode, flowName
+	</sql>
+
+	<select id="findAllFlowManager" resultMap="BaseResultMap" >
+		select
+		<include refid="Base_Column_List" />
+		from flow_manager
+	</select>
+
+</mapper>

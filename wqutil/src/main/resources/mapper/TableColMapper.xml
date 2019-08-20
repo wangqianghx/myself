@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.self.wq.freemarker.dao.TableColDao">
+	<resultMap id="BaseResultMap" type="com.self.wq.freemarker.domain.TableCol">
+		<result column="tableName" property="tableName" />
+		<result column="colName" property="colName" />
+		<result column="indexNum" property="indexNum" />
+	</resultMap>
+
+	<parameterMap id="table_col" type="com.self.wq.freemarker.domain.TableCol"/>
+
+	<sql id="Base_Column_List">
+		tableName, colName, indexNum
+	</sql>
+
+	<select id="findAllTableCol" resultMap="BaseResultMap" >
+		select
+		<include refid="Base_Column_List" />
+		from table_col
+	</select>
+
+</mapper>
