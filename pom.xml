@@ -27,7 +27,7 @@
 
     <properties>
         <mybatis-spring-boot>1.2.0</mybatis-spring-boot>
-        <mysql-connector>8.0.11</mysql-connector>
+        <mysql-connector>8.0.28</mysql-connector>
     </properties>
 
     <dependencies>
